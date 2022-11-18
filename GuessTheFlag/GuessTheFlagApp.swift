@@ -1,14 +1,14 @@
 //
-//  guess_the_flagApp.swift
-//  guess_the_flag
+//  GuessTheFlagApp.swift
+//  GuessTheFlag
 //
-//  Created by Horatiu on 18.11.2022.
+//  Created by Paul Hudson on 20/10/2021.
 //
 
 import SwiftUI
 
 @main
-struct guess_the_flagApp: App {
+struct GuessTheFlagApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
